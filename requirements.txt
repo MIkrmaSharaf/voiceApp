@@ -1,0 +1,4 @@
+Flask
+speechbrain
+torchaudio
+numpy
